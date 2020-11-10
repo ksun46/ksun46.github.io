@@ -1,2 +1,3 @@
-[My Website](ksun46.github.io)
+# Personal Website
+[Link here](ksun46.github.io)
 
