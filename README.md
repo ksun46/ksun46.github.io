@@ -1,3 +1,3 @@
 # Personal Website
-[LINK](ksun46.github.io)
+[ksun46.github.io](ksun46.github.io)
 
