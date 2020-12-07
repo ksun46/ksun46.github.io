@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaizhao Sun</title>
+    <link>https://ksun46.github.io/</link>
+    <description>Recent content on Kaizhao Sun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ksun46.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>https://ksun46.github.io/posts/theme-demo/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksun46.github.io/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ksun46.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksun46.github.io/about/</guid>
+      <description>Short Bio I am a fourth-year Ph.D. student in Operations Research at Georgia Tech, working with Prof. X. Andy Sun. Before joining the Ph.D. program, I received my B.S. degrees in Industrial Engineering and Mathematics from the same institute.
+Broadly speaking, my research focuses on the theory and application of optimization. I am currently working on distributed and decomposition algorithms for large-scale continuous and discrete optimization problems with convergence guarantees. I am also interested in efficient and practical solution methods for nonconvex nonsmooth problems arising from data science and engineering fields.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://ksun46.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksun46.github.io/experience/</guid>
+      <description>Professional Experience  Research intern at Alibaba US-Damo Academy, Bellevue, WA, Summer 2020  Mentors: Dr. Wotao Yin, Dr. Jian Tan, and Mou Sun Convergent decomposition algorithms for mixed-integer programs with block angular structures   Georgia Tech, Atlanta, GA, 2017-present  Graduate Research Assistant, 2018-present Graduate Teaching Assistant, 2017-2018  ISyE 6644 Simulation ISyE 6669 Deterministic Optimization   Research collaboration with ISO New England on SOCP-OPF, 2017-2018    GO Competition A significant amount of my Ph.</description>
+    </item>
+    
+    <item>
+      <title>MISC</title>
+      <link>https://ksun46.github.io/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksun46.github.io/misc/</guid>
+      <description>Selected Graduate Courseworks Operations Research  ISyE 6661 Linear Optimization ISyE 6662 Discrete Optimization ISyE 6663 Nonlinear Optimization ISyE 7683 Advanced Nonlinear Optimization ISyE 8813 Modern Convex Optimization ISyE 8813 Continuous Optimization Algorithms ISYE 6761 Stochastic Process I ISYE 6762 Stochastic Process II ISyE 8813 Advanced Machine Learning  Mathematics  Math 6337 Real Analysis I Math 6338 Real Analysis II Math 7338 Functional Analysis Math 6644 Iterative Method for Systems of Equations Math 6014 Graph Theory Math 6241 Algebraic Geometry  </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ksun46.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksun46.github.io/research/</guid>
+      <description>Research Interest Topics of recent interests:
+ Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization  Publication and Preprint  A two-level ADMM algorithm for AC OPF with convergence guarantees [pdf]
+Kaizhao Sun and X. Andy Sun, submitted, 2020 A two-level distributed algorithm for nonconvex constrained optimization [pdf]
+Kaizhao Sun and X. Andy Sun, submitted, 2019  Talks  A Convergent Distributed Algorithm for AC OPF</description>
+    </item>
+    
+  </channel>
+</rss>
