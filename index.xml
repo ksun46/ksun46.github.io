@@ -43,7 +43,7 @@ Broadly speaking, my research focuses on the theory and application of optimizat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ksun46.github.io/experience/</guid>
-      <description>Professional Experience  Research intern at US-Alibaba Damo Academy, Bellevue, WA, Summer 2020  Mentors: Dr. Wotao Yin, Dr. Jian Tan, and Mou Sun Decomposition algorithms for mixed-integer linear programs with block angular structures   Georgia Tech, Atlanta, GA, 2017-present  Graduate Research Assistant, 2018-present Graduate Teaching Assistant, 2017-2018  ISyE 6644 Simulation ISyE 6669 Deterministic Optimization   Research collaboration with ISO New England on SOCP-OPF, 2017-2018    GO Competition A significant amount of my Ph.</description>
+      <description>Professional Experience  Research intern at Alibaba US-Damo Academy, Bellevue, WA, Summer 2020  Mentors: Dr. Wotao Yin, Dr. Jian Tan, and Mou Sun Convergent decomposition algorithms for mixed-integer programs with block angular structures   Georgia Tech, Atlanta, GA, 2017-present  Graduate Research Assistant, 2018-present Graduate Teaching Assistant, 2017-2018  ISyE 6644 Simulation ISyE 6669 Deterministic Optimization   Research collaboration with ISO New England on SOCP-OPF, 2017-2018    GO Competition A significant amount of my Ph.</description>
     </item>
     
     <item>
@@ -61,7 +61,8 @@ Broadly speaking, my research focuses on the theory and application of optimizat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ksun46.github.io/research/</guid>
-      <description>Research Interest  Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convex relaxation and smoothing techniques in optimization  Publication and Preprint  A two-level ADMM algorithm for AC OPF with convergence guarantees [pdf]
+      <description>Research Interest Topics of recent interests include:
+ Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization  Publication and Preprint  A two-level ADMM algorithm for AC OPF with convergence guarantees [pdf]
 Kaizhao Sun and X. Andy Sun, submitted, 2020 A two-level distributed algorithm for nonconvex constrained optimization [pdf]
 Kaizhao Sun and X. Andy Sun, submitted, 2019  Talks  A Convergent Distributed Algorithm for AC OPF</description>
     </item>
