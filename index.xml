@@ -62,9 +62,9 @@ Broadly speaking, my research focuses on the theory and application of optimizat
       
       <guid>https://ksun46.github.io/research/</guid>
       <description>Research Interest Topics of recent interests:
- Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization  Publication and Preprint  Decomposition Methods for Global Solutions of Mixed-Integer Linear Programs [Link]
-K. Sun, M. Sun, and W. Yin, submitted, 2021 A two-level ADMM algorithm for AC OPF with convergence guarantees [Link]
-K. Sun and X. A. Sun, submitted, 2020 A two-level distributed algorithm for nonconvex constrained optimization [Link]</description>
+ Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization  Publication and Preprint  Solving large-scale security-constrained optimal power flow problems
+A. Gholami, K. Sun, S. Zhang, and X. A. Sun, submitted, 2021 Algorithms for difference-of-convex programs based on difference-of-Moreau-envelopes smoothing [Link]
+K. Sun and X. A. Sun, submitted, 2021 Decomposition methods for global solutions of mixed-integer linear Programs [Link]</description>
     </item>
     
   </channel>
