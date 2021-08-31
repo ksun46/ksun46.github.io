@@ -43,7 +43,7 @@ Broadly speaking, my research focuses on the theory and application of optimizat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ksun46.github.io/experience/</guid>
-      <description>Professional Experience  Research intern at Alibaba US-Damo Academy, Bellevue, WA, Summer 2020  Mentors: Dr. Wotao Yin, Dr. Jian Tan, and Mou Sun Convergent decomposition algorithms for mixed-integer programs with block angular structures   Georgia Tech, Atlanta, GA, 2017-present  Graduate Research Assistant, 2019-present  Decomposition and distributed algorithms for large-scale nonconvex constrained programs Algorithm for difference-of-convex (DC) programs Research collaboration with ISO New England on SOCP-OPF   Graduate Teaching Assistant, 2017-2019  ISyE 6669: Deterministic Optimization ISyE 6644: Simulation and Modeling for Engineering and Science ISyE 3103: Introduction to Supply Chain Modeling: Logistics      Grid Optimization Competition I have been participating in the ARPA-E Grid Optimization Competition (GO Competition).</description>
+      <description>Professional Experience  Research intern at Alibaba US-Damo Academy, Bellevue, WA, USA, Summer 2020  Mentors: Dr. Wotao Yin, Dr. Jian Tan, and Mou Sun Convergent decomposition algorithms for mixed-integer programs with block angular structures   Georgia Tech, Atlanta, GA, USA, August 2017-present  Graduate Research Assistant  Decomposition and distributed algorithms for large-scale nonconvex constrained programs Algorithm for difference-of-convex (DC) programs Research collaboration with ISO New England on SOCP-OPF   Graduate Teaching Assistant  ISyE 6669: Deterministic Optimization ISyE 6644: Simulation and Modeling for Engineering and Science ISyE 3103: Introduction to Supply Chain Modeling: Logistics      Grid Optimization Competition I have been participating in the ARPA-E Grid Optimization Competition (GO Competition).</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ Broadly speaking, my research focuses on the theory and application of optimizat
       
       <guid>https://ksun46.github.io/research/</guid>
       <description>Research Interest Topics of recent interests:
- Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization Sampling algorithms  Publication and Preprint  Log-difference-of-convex (Log-DC) sampling by the unadjusted Langevin Algorithm  J. Liang, K. Sun, E. Zhou, and X. A. Sun, submitted, 2021   Solving large-scale security-constrained optimal power flow problems  A. Gholami, K. Sun, S.</description>
+ Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization Sampling algorithms  Publication and Preprint  Log-difference-of-convex (Log-DC) sampling by the unadjusted Langevin Algorithm  J. Liang, K. Sun, E. Zhou, and X. A. Sun Submitted, 2021   Solving large-scale security-constrained optimal power flow problems  A. Gholami, K. Sun, S.</description>
     </item>
     
   </channel>
