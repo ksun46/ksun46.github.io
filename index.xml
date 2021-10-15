@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaizhao Sun</title>
+    <link>https://ksun46.github.io/</link>
+    <description>Recent content on Kaizhao Sun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ksun46.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A stochastic process crib sheet</title>
+      <link>https://ksun46.github.io/posts/stochref/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksun46.github.io/posts/stochref/</guid>
+      <description>A one-page crib sheet for stochastic process is attached here.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://ksun46.github.io/3_experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksun46.github.io/3_experience/</guid>
+      <description>Professional Experience  Georgia Tech, Atlanta, GA, USA, August 2017-present  Graduate Research and Teaching Assistant   Research intern at Alibaba US-Damo Academy, Bellevue, WA, USA, Summer 2020  Mentors: Dr. Wotao Yin, Dr. Jian Tan, and Mou Sun Convergent decomposition algorithms for mixed-integer programs with block angular structures    Grid Optimization Competition I have been participating in the ARPA-E Grid Optimization Competition (GO Competition). Entrant teams from around the globe thrive to develop innovative algorithmic softwares for modern power grids in the form of coding competition.</description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>https://ksun46.github.io/4_misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksun46.github.io/4_misc/</guid>
+      <description>Awards and Honors  Prize-winning team in ARPA-E Grid Optimization Challenge 2, October 2021 SIAM OP21 Student Travel Award, Summer 2021 Third-place team in ARPA-E Grid Optimization Challenge 1, February 2020 McLean Fellowship Stipend, Fall 2018 and Spring 2019 ISyE Stipend, Fall 2017 and Spring 2018  Invited and Contributed Talks  Algorithms for DC Programs Based on DME Smoothing  SIAM Conference on Optimization, Virtual, July 2021 INFORMS Annual Meeting, Anaheim, CA, USA, October 2021   Decomposition Methods for Global Solutions of Mixed-Integer Linear Programs  Integer Programming and Combinatorial Optimization (IPCO) Workshop (poster), Virtual, May 2021 Mixed Integer Programming (MIP) Workshop (poster), Virtual, May 2021   A Two-level ADMM Algorithm for AC OPF with Global Convergence Guarantee  Power Systems Engineering Research Center (PSERC) Meeting (poster)  Phoenix, AZ, USA, December 2017 Wichita, KS, USA, May 2018,   Georgia Tech Workshop on Electric Energy Systems and Optimization (poster)  Atlanta, GA, USA, November 2018 Atlanta, GA, USA, November 2019   INFORMS Annual Meeting, Virtual, October 2020   Distributed Algorithms for Sparse Regression  INFORMS Annual Meeting, Seattle, WA, USA, October 2019   A Two-level Distributed Algorithm for Nonconvex Constrained Optimization  INFORMS Annual Meeting, Phoenix, AZ, USA, October 2018 International Conference on Continuous Optimization (ICCOPT), Berlin, Germany, August 2019    Academic Services  Session chair for Forecasting/Accounting and Nonlinear Programming, INFORMS Annual Meeting 21, Anaheim, CA Co-chair of the session Distributed and Decentralized Optimization, ICCOPT 2019, Berlin, Germany Reviewer for MPC, JOTA, IEEE (TAC, TCNS, TII, TPWRS, TSG), ACC, CDC, IET, Quantum  </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ksun46.github.io/2_research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksun46.github.io/2_research/</guid>
+      <description>Research Interest Topics of recent interests:
+ Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization Sampling algorithms  Publication and Preprint  Dual Descent ALM and ADMM  Kaizhao Sun and Andy Sun Submitted, 2021   Log-difference-of-convex (Log-DC) sampling by the unadjusted Langevin Algorithm  Jiaming Liang* , Kaizhao Sun, Enlu Zhou, and Andy Sun Submitted, 2021   Solving large-scale security-constrained AC optimal power flow problems  Amin Gholami, Kaizhao Sun, Shixuan Zhang* , and Andy Sun Submitted, 2021   Algorithms for DC programs based on difference-of-Moreau-envelopes smoothing  Kaizhao Sun and Andy Sun Submitted, 2021   Decomposition methods for global solutions of mixed-integer linear programs  Kaizhao Sun, Mou Sun, and Wotao Yin Submitted, 2021   A two-level ADMM algorithm for AC OPF with global convergence guarantees  Kaizhao Sun and Andy Sun Accepted at IEEE Transactions on Power Systems, 2021   A two-level distributed algorithm for nonconvex constrained optimization  Kaizhao Sun and Andy Sun Submitted, 2019    * Optimization experts currently on the academic job market.</description>
+    </item>
+    
+  </channel>
+</rss>
