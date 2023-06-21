@@ -45,7 +45,8 @@
       
       <guid>https://ksun46.github.io/2_research/</guid>
       <description>Research Interest Topics of recent interests:
- Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization  Publications [Google Scholar] Preprints  Recent Developments in Security-Constrained AC Optimal Power Flow: Overview of Challenge 1 in the ARPA-E Grid Optimization Competition  Ignacio Aravena, Daniel K Molzahn, Shixuan Zhang, et al. Submitted, 2022   Dual descent ALM and ADMM  Kaizhao Sun and Andy Sun Submitted, 2021   Decomposition Methods for Global Solutions of Mixed-Integer Linear Programs  Kaizhao Sun, Mou Sun, and Wotao Yin Submitted, 2022   Log-Difference-of-Convex (Log-DC) Sampling by the Unadjusted Langevin Algorithm  Jiaming Liang, Kaizhao Sun, Enlu Zhou, and Andy Sun    Refereed Papers   Amin Gholami, Kaizhao Sun, Shixuan Zhang, and Andy Sun.</description>
+ Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization  Publications [Google Scholar] Preprints   Kaizhao Sun and Xu Andy Sun, &amp;ldquo;Dual descent ALM and ADMM&amp;rdquo;, submitted, 2021. [arXiv]
+  Kaizhao Sun, Mou Sun, and Wotao Yin, &amp;ldquo;Decomposition Methods for Global Solutions of Mixed-Integer Linear Programs&amp;rdquo;, submitted, 2022. [arXiv]</description>
     </item>
     
   </channel>
