@@ -4,21 +4,16 @@
     <title>Posts on Kaizhao Sun</title>
     <link>https://ksun46.github.io/posts/</link>
     <description>Recent content in Posts on Kaizhao Sun</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ksun46.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://ksun46.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A stochastic process crib sheet</title>
       <link>https://ksun46.github.io/posts/stochref/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ksun46.github.io/posts/stochref/</guid>
-      <description>A one-page crib sheet for stochastic process is attached here.</description>
+      <description>&lt;p&gt;A one-page crib sheet for stochastic process is attached &lt;a href=&#34;https://ksun46.github.io/folder/StochRef.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

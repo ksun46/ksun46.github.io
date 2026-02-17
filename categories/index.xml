@@ -4,11 +4,8 @@
     <title>Categories on Kaizhao Sun</title>
     <link>https://ksun46.github.io/categories/</link>
     <description>Recent content in Categories on Kaizhao Sun</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://ksun46.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://ksun46.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

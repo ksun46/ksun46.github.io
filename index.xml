@@ -4,50 +4,37 @@
     <title>Kaizhao Sun</title>
     <link>https://ksun46.github.io/</link>
     <description>Recent content on Kaizhao Sun</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ksun46.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://ksun46.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A stochastic process crib sheet</title>
       <link>https://ksun46.github.io/posts/stochref/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ksun46.github.io/posts/stochref/</guid>
-      <description>A one-page crib sheet for stochastic process is attached here.</description>
+      <description>&lt;p&gt;A one-page crib sheet for stochastic process is attached &lt;a href=&#34;https://ksun46.github.io/folder/StochRef.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Experience</title>
       <link>https://ksun46.github.io/3_experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ksun46.github.io/3_experience/</guid>
-      <description>Past Experiences  Georgia Tech, Atlanta, GA, USA, August 2017 - May 2022  Graduate research and teaching assistant   Decision Intelligence Lab, DAMO Academy, Alibaba Group US, Bellevue, WA, USA, Summer 2020  Research intern    Grid Optimization Competition I have participated in the ARPA-E Grid Optimization Competition (GO Competition). Entrant teams from around the globe strive to develop innovative algorithmic software for modern power grids in the form of coding competition.</description>
+      <description>&lt;h1 id=&#34;past-experiences&#34;&gt;Past Experiences&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Georgia Tech, Atlanta, GA, USA, August 2017 - May 2022&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Graduate research and teaching assistant&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Decision Intelligence Lab, DAMO Academy, Alibaba Group US, Bellevue, WA, USA, Summer 2020&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Research intern&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;grid-optimization-competition&#34;&gt;Grid Optimization Competition&lt;/h1&gt;&#xA;&lt;p&gt;I have participated in the ARPA-E Grid Optimization Competition (GO Competition). Entrant teams from around the globe strive to develop innovative algorithmic software for modern power grids in the form of coding competition. Our team (GMI-GO) is led by faculty advisors Prof. X. Andy Sun (PI) and Prof. Santanu Dey.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Misc</title>
       <link>https://ksun46.github.io/4_misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ksun46.github.io/4_misc/</guid>
-      <description>Awards and Honors  Prize-winning team in ARPA-E Grid Optimization Challenge 2, Oct. 2021 Third-place team in ARPA-E Grid Optimization Challenge 1, Feb. 2020 McLean Fellowship Stipend, Fall 2018 and Spring 2019 ISyE Stipend, Fall 2017 and Spring 2018  Invited and Contributed Talks  Dual Descent ALM and ADMM  ISyE Ph.D. Student Seminar, GA, USA, Nov. 2021 INFORMS Annual Meeting, Indianapolis, IN, Oct. 2022   Algorithms for DC Programs Based on DME Smoothing  SIAM Conference on Optimization, Virtual, Jul.</description>
+      <description>&lt;h1 id=&#34;awards-and-honors&#34;&gt;Awards and Honors&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prize-winning team in &lt;a href=&#34;https://gocompetition.energy.gov/challenges/challenge-2&#34;&gt;ARPA-E Grid Optimization Challenge 2&lt;/a&gt;, Oct. 2021&lt;/li&gt;&#xA;&lt;li&gt;Third-place team in &lt;a href=&#34;https://gocompetition.energy.gov/challenges/challenge-1&#34;&gt;ARPA-E Grid Optimization Challenge 1&lt;/a&gt;, Feb. 2020&lt;/li&gt;&#xA;&lt;li&gt;McLean Fellowship Stipend, Fall 2018 and Spring 2019&lt;/li&gt;&#xA;&lt;li&gt;ISyE Stipend, Fall 2017 and Spring 2018&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;invited-and-contributed-talks&#34;&gt;Invited and Contributed Talks&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dual Descent ALM and ADMM&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ISyE Ph.D. Student Seminar, GA, USA, Nov. 2021&lt;/li&gt;&#xA;&lt;li&gt;INFORMS Annual Meeting, Indianapolis, IN, Oct. 2022&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Algorithms for DC Programs Based on DME Smoothing&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SIAM Conference on Optimization, Virtual, Jul. 2021&lt;/li&gt;&#xA;&lt;li&gt;INFORMS Annual Meeting, Anaheim, CA, USA, Oct. 2021&lt;/li&gt;&#xA;&lt;li&gt;INFORMS Optimization Society Conference, SC, USA, Mar. 2022&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Decomposition Methods for Global Solutions of Mixed-Integer Linear Programs&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integer Programming and Combinatorial Optimization (IPCO) Workshop (poster), Virtual, May 2021&lt;/li&gt;&#xA;&lt;li&gt;Mixed Integer Programming (MIP) Workshop (poster), Virtual, May 2021&lt;/li&gt;&#xA;&lt;li&gt;SIAM Conference on Optimization, Seattle, WA, USA, May 2023&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;A Two-level ADMM Algorithm for AC OPF with Global Convergence Guarantees&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Power Systems Engineering Research Center (PSERC) Meeting (poster)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Phoenix, AZ, USA, Dec. 2017&lt;/li&gt;&#xA;&lt;li&gt;Wichita, KS, USA, May 2018,&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Georgia Tech Workshop on Electric Energy Systems and Optimization (poster)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atlanta, GA, USA, Nov. 2018&lt;/li&gt;&#xA;&lt;li&gt;Atlanta, GA, USA, Nov. 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;INFORMS Annual Meeting, Virtual, October 2020&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Distributed Algorithms for Sparse Regression&#xA;&lt;ul&gt;&#xA;&lt;li&gt;INFORMS Annual Meeting, Seattle, WA, USA, Oct. 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;A Two-level Distributed Algorithm for Nonconvex Constrained Optimization&#xA;&lt;ul&gt;&#xA;&lt;li&gt;INFORMS Annual Meeting, Phoenix, AZ, USA, Oct. 2018&lt;/li&gt;&#xA;&lt;li&gt;International Conference on Continuous Optimization (ICCOPT), Berlin, Germany, Aug. 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;academic-services&#34;&gt;Academic Services&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Session co-chair for &lt;em&gt;Recent Advances in Stochastic Programs&lt;/em&gt; and &lt;em&gt;Structured Discrete Optimization&lt;/em&gt;, SIAM Conference on Optimization, Seattle, WA, USA, May 2023&lt;/li&gt;&#xA;&lt;li&gt;Session chair for &lt;em&gt;Forecasting/Accounting and Nonlinear Programming&lt;/em&gt;, INFORMS Annual Meeting, Anaheim, CA, USA, Oct. 2021&lt;/li&gt;&#xA;&lt;li&gt;Co-chair of the session &lt;em&gt;Distributed and Decentralized Optimization&lt;/em&gt;,&#xA;&lt;a href=&#34;https://iccopt2019.berlin&#34;&gt;ICCOPT 2019&lt;/a&gt;, Berlin, Germany&lt;/li&gt;&#xA;&lt;li&gt;Reviewer for&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Optimization: SIOPT, MOR, MPC, JOTA, IJOO, Quantum&lt;/li&gt;&#xA;&lt;li&gt;Power System: IEEE (TAC, TCNS, TII, TPWRS, TSG, L-CSS), IET, ACC, CDC&lt;/li&gt;&#xA;&lt;li&gt;Machine Learning: AISTATS 21, NeurIPS 22&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://ksun46.github.io/2_research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ksun46.github.io/2_research/</guid>
-      <description>Research Interest I have been working on:
- Distributed and decomposition algorithms for continuous/discrete optimization Theory and algorithms based on nonconvex augmented Lagrangian duality Convexification and smoothing in optimization Primal heuristics for MILPs  See full publication list on Google Scholar.
-Preprints  Wenqiang Pu, Kaizhao Sun, and Jiawei Zhang (2024) Smoothed Proximal Lagrangian Method for Nonlinear Constrained Programs [arXiv]  Refereed Papers   Kaizhao Sun and Xu Andy Sun (2024) Dual descent ALM and ADMM, SIAM Journal on Optimization, 34(2):1679-1707.</description>
+      <description>&lt;h1 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h1&gt;&#xA;&lt;p&gt;I have been working on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Distributed and decomposition algorithms for continuous/discrete optimization&lt;/li&gt;&#xA;&lt;li&gt;Theory and algorithms based on nonconvex augmented Lagrangian duality&lt;/li&gt;&#xA;&lt;li&gt;Convexification and smoothing in optimization&lt;/li&gt;&#xA;&lt;li&gt;Primal heuristics for MILPs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See full publication list on &lt;a href=&#34;https://scholar.google.com/citations?user=lqkLHsIAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;preprints&#34;&gt;Preprints&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Uijeong Jang, &lt;strong&gt;Kaizhao Sun&lt;/strong&gt;, Wotao Yin, and Ernest K. Ryu (2026) ALiA: Adaptive Linearized ADMM [&lt;a href=&#34;https://arxiv.org/abs/2602.15000&#34;&gt;arXiv&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wenqiang Pu, &lt;strong&gt;Kaizhao Sun&lt;/strong&gt;, and Jiawei Zhang (2024) Smoothed Proximal Lagrangian Method for Nonlinear Constrained Programs [&lt;a href=&#34;https://arxiv.org/abs/2408.15047v1&#34;&gt;arXiv&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;refereed-papers&#34;&gt;Refereed Papers&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kaizhao Sun&lt;/strong&gt; and Xu Andy Sun (2024) Dual descent ALM and ADMM, &lt;em&gt;SIAM Journal on Optimization&lt;/em&gt;, 34(2):1679-1707. [&lt;a href=&#34;https://epubs.siam.org/doi/abs/10.1137/21M1449099?journalCode=sjope8&#34;&gt;link&lt;/a&gt;][&lt;a href=&#34;https://arxiv.org/abs/2109.13214&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
